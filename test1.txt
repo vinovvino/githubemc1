@@ -1,1 +1,1 @@
-cretae a file  test1.txt
+create a file  test1.txt
